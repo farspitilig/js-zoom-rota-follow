@@ -1,3 +1,4 @@
+// modifié depuis github
 // rajouter une ligne après le premier span
 	var br = document.createElement('br');
 	var span = document.getElementsByTagName('span')[0];
